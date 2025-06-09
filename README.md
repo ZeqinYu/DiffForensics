@@ -1,4 +1,8 @@
 # DiffForensics
+---
+
+> **TODO**
+> - [ ] 📦 **Release DiffForensics code & checkpoints**
 
 ---
 
@@ -6,11 +10,7 @@ Official implementation of DiffForensics from our CVPR 2024 paper “DiffForensi
 
 ---
 
-> **TODO**
-> - [ ] 📦 **Release DiffForensics code & checkpoints**
 
-
----
 
 
 ## ✍️ Citation
