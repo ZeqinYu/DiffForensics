@@ -1,7 +1,7 @@
 # DiffForensics
 ---
 
-> **TODO**
+> **TODO (coming soon!)**
 > - [ ] 📦 **Release DiffForensics code & checkpoints**
 
 ---
