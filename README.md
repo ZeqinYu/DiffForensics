@@ -10,6 +10,10 @@ Official implementation of DiffForensics from our CVPR 2024 paper “DiffForensi
 
 ---
 
+To facilitate fair comparisons for researchers working on Image Forgery Detection and Localization (IFDL), we publicly release the prediction results (pixel-level outputs) of our model. Other resources (e.g., training code and model weights) are still being organized and will be updated later.
+
+---
+
 
 
 
