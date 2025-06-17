@@ -11,8 +11,8 @@ Official implementation of DiffForensics from our CVPR 2024 paper “DiffForensi
 ---
 
 To facilitate fair comparisons for researchers working on Image Forgery Detection and Localization (IFDL), we publicly release the prediction results (pixel-level outputs) of our model. Other resources (e.g., code and checkpoints) are still being organized and will be updated later.
-To facilitate fair comparisons for researchers working on Image Forgery Detection and Localization (IFDL), we publicly release the prediction results (pixel-level outputs) of our model. Other resources (e.g., code and checkpoints) are still being organized and will be updated later.
 [Baidu NetDisk (Extraction Code: hgzw)](https://pan.baidu.com/s/1OdIvPS72wj5WkwdgcldTIw)
+
 ---
 
 
