@@ -1,12 +1,14 @@
 # DiffForensics
 ---
 
-> **TODO (coming soon!)**
-> - [ ] 📦 **Release DiffForensics code & checkpoints**
+Official implementation of DiffForensics from our CVPR 2024 paper “DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization”. <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffForensics_Leveraging_Diffusion_Prior_to_Image_Forgery_Detection_and_Localization_CVPR_2024_paper.html) <br>
+Zeqin Yu, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li  
 
 ---
 
-Official implementation of DiffForensics from our CVPR 2024 paper “DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization”.
+> **TODO (coming soon!)**
+> - [ ] 📦 **Release DiffForensics code & checkpoints**
 
 ---
 
